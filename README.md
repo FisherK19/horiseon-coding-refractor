@@ -20,8 +20,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-<img src="https://1drv.ms/i/s!ApjN6ljY7QUUkXzO48FS7hcLRFGZ?e=gaVlBy"/>
+<img src=" https://1drv.ms/i/s!ApjN6ljY7QUUkXzO48FS7hcLRFGZ?e=gaVlBy" />
 
 <h4>Usage</h4>
-Github Link: git@github.com:FisherK19/horiseon-coding-refractor.git
-Webpage Link: https://fisherk19.github.io/horiseon-coding-refractor/
+Github Link: <a href="git@github.com:FisherK19/horiseon-coding-refractor.git </a>
+
+Webpage Link:  https://fisherk19.github.io/horiseon-coding-refractor/
