@@ -22,5 +22,5 @@ THEN I find a concise, descriptive title
 
 ![img](<assets/images/Horiseon Code Refractor.png>)
 <h4>Usage</h4>
-Github Link: [(git@github.com:FisherK19/horiseon-coding-refractor.git)]
+Github Link: https://github.com/FisherK19/horiseon-coding-refractor
 Webpage Link:  https://fisherk19.github.io/horiseon-coding-refractor/
