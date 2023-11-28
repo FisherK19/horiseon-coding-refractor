@@ -1,13 +1,14 @@
+/* element style*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*body and background color*/
 body {
     background-color: #d9dcd6;
 }
-
+/* header style*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,12 +41,12 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* styling links to make it more concise*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* paragraph format styling*/
 p {
     font-size: 16px;
 }
@@ -58,12 +59,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* content positioning to keep left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* content positioning to keep right */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -114,7 +115,7 @@ p {
 img {
     max-height: 200px;
 }
-/* removed the H2 codes */
+/* removed the H2 codes and footer styling */
 
 .footer {
     padding: 30px;
